@@ -3,7 +3,7 @@
 // 5 -> 2, 4
 // 8 -> 2, 4, 6, 8
 
-Console.WriteLine("Введите число");
+Console.Write("Введите число: ");
 int N = Convert.ToInt32(Console.ReadLine());
 int currentValue = 2;
 
